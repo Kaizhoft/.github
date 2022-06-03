@@ -13,4 +13,4 @@
 
 ------------
 
-<p align="center">Copyright © 2022, <b>Kaizhoft</b>. For more information see the <a>Code of Conduct FAQ</a></p>
+<p align="center">Copyright © 2022, <b>Kaizhoft</b>. For more information see the <a url="">Code of Conduct FAQ</a></p>
